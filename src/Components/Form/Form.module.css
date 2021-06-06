@@ -1,0 +1,43 @@
+.bg {
+    background-color:#9fa8da;
+    width: 300px;
+    margin-bottom: 10px;
+    position: relative; 
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.rangeLabel {
+    margin-bottom: 50px;
+    display: block;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    padding-top: 10px;
+    padding-left: 10px; 
+}
+
+.slider {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.result {
+    font-size: 0.8em;
+    background-color: #9fa8da ;
+    padding: 10px;
+    line-height: 1.5;
+
+}
+
+.radio {
+    margin-left: 10px;
+}
+
+.summary {
+    font-size: 0.8em;
+    text-transform: uppercase;
+    background-color: #9fa8da;
+    padding: 10px;
+    line-height: 1.5;
+}
